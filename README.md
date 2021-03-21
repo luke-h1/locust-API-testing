@@ -1,6 +1,5 @@
 ## Simple boilerplace I use for testing APIs with locust.io
 
-
 ## Getting started
 
 * Run `pipenv install` in the root of the project
